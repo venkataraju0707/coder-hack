@@ -1,4 +1,4 @@
-![Leetcode Stats](https://leetcard.jacoblin.cool/VERA_0707?theme=light,unicorn)
+![Leetcode Stats](https://leetcard.jacoblin.cool/VERA_0707?ext=activity)
 Coder-Hack Leaderboard API 🏆
 
 A Spring Boot RESTful API for managing the leaderboard of a coding platform contest.
